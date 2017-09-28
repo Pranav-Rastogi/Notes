@@ -75,11 +75,7 @@ If the two constituents are mixing in each other and are capable of lowering eac
 
 #### Silver-lead system:
 Silver has a melting point of **961<sup>o</sup>C.** Lead has a melting point of **327.5<sup>o</sup>C.**
-<<<<<<< HEAD
-![Silver-lead temperature-vs-component graph](Images/chem%20notes_1.jpg)
-=======
 ![Silver-lead temperature-vs-component graph](Images/chem%20notes_2.jpg)
->>>>>>> b9153399f4d122de96eff44649bad23b614ac796
 
 AO → Melting point curve for silver
 BO → Melting point curve for lead

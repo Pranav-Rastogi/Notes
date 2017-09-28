@@ -71,11 +71,11 @@ In these systems _solid ⇌ liquid_ equilibrium will exist and there is no gas p
 
 ### Eutectic system:
 If the two constituents are mixing in each other and are capable of lowering each other's melting point, they will constitute a **eutectic system**.
-![Eutectic mixture temperature-vs-component graph](Images/Eutectic(1))
+![Eutectic mixture temperature-vs-component graph](Images/Eutectic(1).jpg)
 
 #### Silver-lead system:
 Silver has a melting point of **961<sup>o</sup>C.** Lead has a melting point of **327.5<sup>o</sup>C.**
-![Silver-lead temperature-vs-component graph](Images/Eutectic(2))
+![Silver-lead temperature-vs-component graph](Images/Eutectic(2).jpg)
 
 AO → Melting point curve for silver
 BO → Melting point curve for lead

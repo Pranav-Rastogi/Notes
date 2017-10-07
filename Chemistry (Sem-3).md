@@ -78,9 +78,9 @@ If the two constituents are mixing in each other and are capable of lowering eac
 Silver has a melting point of **961<sup>o</sup>C.** Lead has a melting point of **327.5<sup>o</sup>C.**
 ![Silver-lead temperature-vs-component graph](Images/chem%20notes_2.jpg)
 
-AO → Melting point curve for silver
-BO → Melting point curve for lead
- O → Eutectic point
+AO → Melting point curve for silver<br>
+BO → Melting point curve for lead<br>
+ O → Eutectic point<br>
 
 AO indicates that melting point of silver falls gradually on addition of lead in small quantities till the solution gets saturated w.r.t. lead at point O. F=1 along AO.
 
@@ -90,5 +90,5 @@ At point O, the system becomes invariant as the temperature and composition beco
 
 If a sample of lead containing less than 2.6% silver is heated to point P, on allowing the mass to cool from P, temperature gradually falls without any change in composition till point P' is reached on the curve BO. On further lowering the temperature, lead begins to separate out and the composition varies along P'O till point O is reached. On further cooling, the whole mass solidifies and lock to the eutectic composition. Likewise, if a sample is containing more than 2.6% Ag, the path P<sub>1</sub> → P'<sub>1</sub> → O is followed.
 
-The same principle is utilised in Pattinson's process of desilverisation of argentiferous lead.
+The same principle is utilised in Pattinson's process of desilverisation of argentiferous lead.<br>
 **Desilverisation of argentiferous lead** means attainment of eutectic composition.

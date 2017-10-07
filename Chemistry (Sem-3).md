@@ -20,12 +20,13 @@ Number of phases = 3
 * Usually all the gaseous components are taken as one phase (because they are usually miscible)
 * Usually all solid components are taken as separate phases as long as they are not miscible like in alloys.
 * Number of phases of liquids depends on their misciblity. (Usually only one phase exists.)
-    Eg:
-        * H<sub>2</sub>O and ethanol have **one phase**.
-        * Benzene and ethanol have **two phases**.
+    
+Eg:
+* H<sub>2</sub>O and ethanol have **one phase**.
+* Benzene and water have **two phases**.
 
 ### Component:
-The smallest number of independent variable components by which each phase can be expressed either in the form of chemical formula or by chemical eq<sup>n</sup>.
+The smallest number of independent variable constituents, taking part in the state of equilibrium, by means of which the composition of each phase can be expressed in the form of chemical equation.
 
 #### Example:
 Ice ⇌ Water ⇌ Vapour<br>
